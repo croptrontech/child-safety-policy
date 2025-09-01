@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lokmangal Setu - Child Safety Policy</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+        h1 { color: #333; }
+        h2 { color: #555; margin-top: 30px; }
+        .contact { background: #f4f4f4; padding: 20px; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <h1>Lokmangal Setu - Child Safety Standards</h1>
+    
+    <h2>Our Commitment to Child Safety</h2>
+    <p>Lokmangal Setu is committed to providing a safe environment for all users and has zero tolerance for child sexual abuse and exploitation (CSAE) and child sexual abuse material (CSAM).</p>
+    
+    <h2>Prevention Measures</h2>
+    <ul>
+        <li>Proactive content moderation and monitoring</li>
+        <li>User reporting mechanisms for inappropriate content</li>
+        <li>Age verification processes where applicable</li>
+        <li>Regular safety audits and updates</li>
+    </ul>
+    
+    <h2>Reporting Mechanism</h2>
+    <p>Users can report child safety concerns directly within the app. All reports are reviewed immediately and appropriate action is taken.</p>
+    
+    <h2>Legal Compliance</h2>
+    <p>We comply with all relevant child safety laws and report violations to appropriate regional and national authorities as required.</p>
+    
+    <h2>Response Actions</h2>
+    <p>Violations result in immediate account suspension, content removal, and reporting to law enforcement when required.</p>
+    
+    <div class="contact">
+        <h2>Contact Information</h2>
+        <p>For child safety concerns, contact: <strong>croptrontech@gmail.com</strong></p>
+        <p>Last updated: [Current Date]</p>
+    </div>
+</body>
+</html>
