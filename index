@@ -1,14 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lokmangal Setu - Child Safety Policy</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 40px; 
+            line-height: 1.6; 
+            max-width: 800px;
+        }
         h1 { color: #333; }
         h2 { color: #555; margin-top: 30px; }
-        .contact { background: #f4f4f4; padding: 20px; margin: 20px 0; }
+        .contact { 
+            background: #f4f4f4; 
+            padding: 20px; 
+            margin: 20px 0; 
+            border-radius: 5px;
+        }
     </style>
 </head>
 <body>
@@ -18,12 +26,10 @@
     <p>Lokmangal Setu is committed to providing a safe environment for all users and has zero tolerance for child sexual abuse and exploitation (CSAE) and child sexual abuse material (CSAM).</p>
     
     <h2>Prevention Measures</h2>
-    <ul>
-        <li>Proactive content moderation and monitoring</li>
-        <li>User reporting mechanisms for inappropriate content</li>
-        <li>Age verification processes where applicable</li>
-        <li>Regular safety audits and updates</li>
-    </ul>
+    <p>• Proactive content moderation and monitoring</p>
+    <p>• User reporting mechanisms for inappropriate content</p>
+    <p>• Age verification processes where applicable</p>
+    <p>• Regular safety audits and updates</p>
     
     <h2>Reporting Mechanism</h2>
     <p>Users can report child safety concerns directly within the app. All reports are reviewed immediately and appropriate action is taken.</p>
@@ -37,7 +43,7 @@
     <div class="contact">
         <h2>Contact Information</h2>
         <p>For child safety concerns, contact: <strong>croptrontech@gmail.com</strong></p>
-        <p>Last updated: [Current Date]</p>
+        <p>Last updated: September 2025</p>
     </div>
 </body>
 </html>
